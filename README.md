@@ -1,7 +1,10 @@
-hello-world
-===========
+* Welcome to the Interactive C Tutorial.
+Start by choosing a chapter and
+write your code in this window. */
 
-1st program
+#include <stdio.h>
 
-In the editor, write some text, tell a bit about yourself.
-Write a commit message that describes your changes.
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
